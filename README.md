@@ -1,6 +1,6 @@
 # Web-Designs
-FancyBox demonstration
-##Prepare to Start
+## FancyBox demonstration
+## Prepare to Start
 
 1. On GitHub.com, navigate to the master branch of the repository, click code
 2. Under code, select HTTPS, and copy the repository
@@ -24,7 +24,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
 
-##Now Right Click on the index.html and open with firefox/live server 
+## Now Right Click on the index.html and open with firefox/live server 
 you will see the demo page for our fancybox effect 
 ![image](https://user-images.githubusercontent.com/80212154/232926336-e3197253-cebd-4569-a5ba-55eea983045e.png)
 
@@ -41,5 +41,5 @@ Scroll down to view the Fancybox image gallery
 Click on any image to view the gallery, and click right or left button to navigate or throug the images bar on the bottom
 ![image](https://user-images.githubusercontent.com/80212154/232928450-f8fca351-b053-48ff-a205-2a528341eae0.png)
 
-##If you like any of the js effect, feel free to copy the code to apply to your website!
+## If you like any of the js effect, feel free to copy the code to apply to your website!
 
